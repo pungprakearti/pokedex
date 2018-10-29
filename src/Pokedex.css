@@ -1,0 +1,9 @@
+.Pokedex-pokecards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Pokedex-logo {
+  width: 400px;
+}
